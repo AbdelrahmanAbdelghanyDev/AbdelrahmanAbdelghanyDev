@@ -31,16 +31,16 @@
 </div>
 
 <div align="center" style="background-color:#1e1e2f; padding:15px; border-radius:10px; width:80%; margin:auto;">
-  <!-- Main stack from skillicons (بدون linux علشان نتحكم في حجمه) -->
   <img src="https://skillicons.dev/icons?i=python,postgresql,git,html,css,javascript,vscode" alt="Main tools" />
   <br/><br/>
-  <!-- Odoo + Linux + XML + JSON من devicon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" width="50" alt="Odoo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="45" alt="XML" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="45" alt="JSON" />
+  
 </div>
----
+
+--- 
 
 <div align="center">
   <h2>🚀 Projects & Experience</h2>
@@ -80,5 +80,4 @@
 <div align="center" style="margin-top:15px;">
   <i>⚡ Fun fact: I love turning business ideas into powerful ERP solutions ⚡</i>
 </div>
----
 
