@@ -31,10 +31,14 @@
 </div>
 
 <div align="center" style="background-color:#1e1e2f; padding:15px; border-radius:10px; width:80%; margin:auto;">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,html,css,javascript,vscode,linux" /><br/>
-  <img src="https://www.odoo.com/web/image/website/1/logo/Odoo?unique=915d2f8" width="50" alt="Odoo logo"/>
-  <img src="https://www.svgrepo.com/show/373632/xml.svg" width="45" alt="XML"/>
-  <img src="https://www.svgrepo.com/show/373632/json.svg" width="45" alt="JSON"/>
+  <!-- Main tech stack -->
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,html,css,javascript,vscode" alt="Tech stack" />
+  <br/><br/>
+  <!-- Odoo + Linux + XML + JSON -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" width="50" alt="Odoo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="45" alt="XML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="45" alt="JSON" />
 </div>
 
 ---
