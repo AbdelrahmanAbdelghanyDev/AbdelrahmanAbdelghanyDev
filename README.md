@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;Python+|+XML+|+PostgreSQL+|+Odoo+Framework" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abdelrahman+Abdelghany;Odoo+Developer;Python+|+XML+|+PostgreSQL+|+Odoo+Framework" alt="Typing SVG" />
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding"/>
@@ -15,7 +16,7 @@
 </div>
 
 <div align="center" style="background-color:#1e1e2f; padding:15px; border-radius:10px; width:80%; margin:auto;">
-  💼 <b>Odoo Developer</b> with <b>1 year</b> of experience building and customizing ERP systems.<br/>
+  💼 <b>Odoo Developer</b> with <b>1year</b> of experience building and customizing ERP systems.<br/>
   🎓 Bachelor's degree in <b>Computer Science</b><br/>
   🚀 Passionate about <b>business automation</b>, modular ERP design, and efficient workflows.<br/>
   💬 Ask me about <b>Python, Odoo Framework, XML, PostgreSQL</b><br/><br/>
@@ -45,7 +46,7 @@
 <div align="left" style="background-color:#1e1e2f; padding:20px; border-radius:10px; width:80%; margin:auto;">
 
 - 🧩 <b>Custom Odoo Modules:</b>  
-  Developed tailored modules for <b>Sales, HR, Inventory, and Accounting</b> using Odoo versions 12 to 18.
+  Developed tailored modules for <b>Sales, HR, Inventory, and Accounting</b> using Odoo version 12 to 18.
 
 - 🔗 <b>System Integrations:</b>  
   Integrated Odoo with external APIs and automated data sync workflows.
@@ -73,13 +74,8 @@
 </div>
 
 ---
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-abdelghany4&theme=onedark&no-frame=true&margin-w=10" width="700" alt="GitHub Trophies"/>
-</div>
-
----
-
 <div align="center" style="margin-top:15px;">
   <i>⚡ Fun fact: I love turning business ideas into powerful ERP solutions ⚡</i>
 </div>
+---
+
