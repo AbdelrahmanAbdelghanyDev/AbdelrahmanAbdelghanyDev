@@ -16,7 +16,7 @@
 </div>
 
 <div align="center" style="background-color:#1e1e2f; padding:15px; border-radius:10px; width:80%; margin:auto;">
-  💼 <b>Odoo Developer</b> with <b>1year</b> of experience building and customizing ERP systems.<br/>
+  💼 <b>Odoo Developer</b> with <b>2 year</b> of experience building and customizing ERP systems.<br/>
   🎓 Bachelor's degree in <b>Computer Science</b><br/>
   🚀 Passionate about <b>business automation</b>, modular ERP design, and efficient workflows.<br/>
   💬 Ask me about <b>Python, Odoo Framework, XML, PostgreSQL</b><br/><br/>
